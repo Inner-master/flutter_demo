@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_demo/global_key_test_page.dart';
+import 'package:flutter_demo/demo_test/global_key_test_page.dart';
 
 class ColorStatelessBox extends StatelessWidget {
   ColorStatelessBox({
